@@ -1,0 +1,19 @@
+{
+  "name": "mygraph",
+  "version": "1.0.0",
+  "description": "My test graph app for todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krolikroger42x/mygraph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krolikroger42x/mygraph/issues"
+  },
+  "homepage": "https://github.com/krolikroger42x/mygraph#readme"
+}
